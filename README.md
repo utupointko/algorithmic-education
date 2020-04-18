@@ -1,6 +1,10 @@
+<p align="center">
+    <a href="https://github.com/utupointko/algorithmic-education/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/utupointko/algorithmic-education"></a>
+</p>
+
 # algorithmic-education
 
-Hello there! We as a team would like to present an algorithmic education game with some Python libraries and engine. Our main purpose will be to keep the game as educational and fun as possible, and allow new CS students to learn Sorting and Procedural algorithms by as well having fun. We are gonna have a list of basic and extensive languages in hand and we will do our best to implement them with fun tasks in game.
+Our main purpose is to keep the game as educational and fun as possible, and allow new CS students to learn Sorting and Procedural algorithms by as well having fun.
 
 ## Getting Started
 
@@ -60,17 +64,12 @@ Add additional notes about how to deploy this on a live system
 
 * [name](link) - short description
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **Kenan Eyvazov** - [azorahai3724](https://github.com/azorahai3724)
 * **Khaled Garawaeen** - [LoDaAa](https://github.com/LoDaAa)
 * **Gochmammedov Ahmet** - [westmorgan](https://github.com/westmorgan)
 * **Abdizhalilov Arslan** - [utupointko](https://github.com/utupointko)
-
 
 ## License
 

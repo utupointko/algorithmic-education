@@ -1,16 +1,10 @@
-# -*- coding: utf-8 -*-
+import math
+import pytest
 
-from .context import algoedu
+def test_sqrt():  #test
+   num = 25
+   assert math.sqrt(num) == 5
 
-import unittest
-
-
-class BasicTestSuite(unittest.TestCase):
-    """Basic test cases."""
-
-    def test_absolute_truth_and_meaning(self):
-        assert True
-
-
-if __name__ == '__main__':
-    unittest.main()
+@pytest.mark.parametrize("num, output",[(1,11),(2,22),(3,33),(4,44)])
+def test_multiplication_11(num, output):
+   assert 11*num == output

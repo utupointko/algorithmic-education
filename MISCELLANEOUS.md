@@ -8,16 +8,19 @@ Hello there! We as a team would like to submit our idea of making an algorithmic
 
 ## Assignments deadlines
 
-* Plan (by 28th of February) - DONE
+* Plan (by 28th of February)
 * VCS (by 13th of March)
-* CI (by 3th of April)
-* Extra Tools (by 24th of April)
-* CD + Demo (by 15th of May)
-* Team points distribution (by 29th of May)
+* CI (by 19th of April)
+* Extra Tools (by 3rd of May)
+* CD + Demo (by 24th of May)
+* Team points distribution (by 5th of June)
 
 ## To Do
 
-* VCS
+* CI
+* Extra Tools
+* CD + Demo
+* Team points distribution
 
 ## Team members
 
