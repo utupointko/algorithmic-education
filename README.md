@@ -1,4 +1,6 @@
 <p align="center">
+    <a href="https://github.com/utupointko/algorithmic-education/actions?query=workflow%3Abuild"><img src="https://img.shields.io/github/workflow/status/utupointko/algorithmic-education/build/master">
+    <a href="https://github.com/utupointko/algorithmic-education/actions?query=workflow%3Atest"><img src="https://img.shields.io/github/workflow/status/utupointko/algorithmic-education/test/master?label=test">
     <a href="https://github.com/utupointko/algorithmic-education/blob/master/LICENSE.md"><img src="https://img.shields.io/github/license/utupointko/algorithmic-education"></a>
 </p>
 
