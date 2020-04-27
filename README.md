@@ -6,7 +6,7 @@
 
 # algorithmic-education
 
-Our main purpose is to keep the game as educational and fun as possible, and allow new CS students to learn Sorting and Procedural algorithms by as well having fun.
+Our main purpose is to keep the game as educational and fun as possible, and allow new CS students to learn pathfinding algorithms by as well having fun.
 
 ## Getting Started
 
