@@ -14,20 +14,22 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+What things you need to install the software:
 
 Just the game release
 
 ### Playing the game
 
-In case of windows: run the executable main.exe
-In case of linux: ./main
-See the file playing the game for instructions
-
+In case of windows: run the executable main.exe\
+In case of linux: ./main\
+The simple instructions for playing the game will be on the main menu in which you are asked to press anything\
+For logic please see:
+https://en.wikipedia.org/wiki/Dijkstra's_algorithm
+https://en.wikipedia.org/wiki/A*_search_algorithm
 
 ## Deployment
 
-Releases are automatically deployed to github releases
+Releases are automatically deployed to "github releases"
 
 ## Built With
 
