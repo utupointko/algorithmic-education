@@ -10,61 +10,28 @@ Our main purpose is to keep the game as educational and fun as possible, and all
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for playing.
 
 ### Prerequisites
 
 What things you need to install the software and how to install them
 
-```
-Give examples
-```
+Just the game release
 
-### Installing
+### Playing the game
 
-A step by step series of examples that tell you how to get a development env running
+In case of windows: run the executable main.exe
+In case of linux: ./main
+See the file playing the game for instructions
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system "In progress"
+Releases are automatically deployed to github releases
 
 ## Built With
 
-* [name](link) - short description
+Github actions
 
 ## Authors
 
