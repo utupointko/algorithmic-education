@@ -37,7 +37,8 @@ jobs:
       with:
         name: main
         path: artifact/to/upload
-
+    - name: Automatic Releases
+      uses: marvinpinto/action-automatic-releases@v1.0.0
   build-windows:
 
     runs-on: windows-latest
@@ -66,3 +67,5 @@ jobs:
       with:
         name: main.exe
         path: artifact/to/upload
+    - name: Automatic Releases
+      uses: marvinpinto/action-automatic-releases@v1.0.0
