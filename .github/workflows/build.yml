@@ -45,7 +45,7 @@ jobs:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "linux-latest"  
         prerelease: false
-        files: main  
+        files: artifact/to/upload/main  
   build-windows:
 
     runs-on: windows-latest
@@ -80,4 +80,4 @@ jobs:
         repo_token: "${{ secrets.GITHUB_TOKEN }}"
         automatic_release_tag: "windows-latest"  
         prerelease: false
-        files: main.exe
+        files: artifact/to/upload/main.exe
