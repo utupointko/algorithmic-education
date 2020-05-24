@@ -60,7 +60,7 @@ Give an example
 
 ## Deployment
 
-Add additional notes about how to deploy this on a live system
+Add additional notes about how to deploy this on a live system "In progress"
 
 ## Built With
 
